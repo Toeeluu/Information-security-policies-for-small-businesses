@@ -7,9 +7,9 @@ In this project, I created several information security policies tailored for a 
 
 <h2>Documents included</h2>
 
-- <b>Training slides </b> 
-- <b>Lessons plans </b>
-- <b>Impact assessment forms <b>
+- <b>Policies </b> 
+
+
 
 
 
